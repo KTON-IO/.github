@@ -38,3 +38,4 @@ Our long-term vision is to make TON staking as liquid and ubiquitous as ETH stak
 - **GitHub**: [https://github.com/KTON-IO](https://github.com/KTON-IO)
 - **Medium**: [https://medium.com/kton-io](https://medium.com/kton-io)
 - **DefiLlama**: [https://defillama.com/protocol/kton](https://defillama.com/protocol/kton)
+- **Wikipedia**: [TON Blockchain - KTON](https://en.wikipedia.org/wiki/TON_(blockchain)#KTON)
